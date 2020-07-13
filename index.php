@@ -374,42 +374,42 @@
                       <div class="experience-item">
                         <div class="row">
                           <div class="col-md-4">
-                            <div class="experience-item-date">Junio 2019 - a la fecha</div>
-                            <div class="experience-item-company slide-title-sub company-blue">Antares Patagonia</div>
+                            <div class="experience-item-date">2013-2019</div>
+                            <div class="experience-item-company slide-title-sub company-blue">Facebook</div>
                           </div>
                           <div class="col-md-4">
-                            <div class="experience-item-title slide-title-sub">Encargado Área de informática <br> Departamento de operaciones</div>
+                            <div class="experience-item-title slide-title-sub">Senior product Designer</div>
                           </div>
                           <div class="col-md-4">
-                            <div class="experience-item-descr slide-descr">De manera inicial, ingreso a la empresa como encargado de informatica con la mision de desarrollar un software para el área de operaciones, por lo que ingresé a trabajar en forma paralela a dicho departamento.</div>
-                          </div>
-                        </div>
-                      </div>
-                      <div class="experience-item">
-                        <div class="row">
-                          <div class="col-md-4">
-                            <div class="experience-item-date">Junio 2018 - Junio 2019</div>
-                            <div class="experience-item-company slide-title-sub company-pink">Ecocamp Patagonia</div>
-                          </div>
-                          <div class="col-md-4">
-                            <div class="experience-item-title slide-title-sub">Área de Informática</div>
-                          </div>
-                          <div class="col-md-4">
-                            <div class="experience-item-descr slide-descr">Cambio de área de operaciones al área de informatica, con el fin de desarrollar un software para el área operativa. En primera fase se trabajo con access combinado con visual basic y posteriormente, se migró a la plataforma Filemaker.</div>
+                            <div class="experience-item-descr slide-descr">Proven ability to lead and manage a wide variety of design and development projects in team and independent situations.</div>
                           </div>
                         </div>
                       </div>
                       <div class="experience-item">
                         <div class="row">
                           <div class="col-md-4">
-                            <div class="experience-item-date">Septiembre 2015 - Junio 2018</div>
-                            <div class="experience-item-company slide-title-sub company-green">Ecocamp Patagonia</div>
+                            <div class="experience-item-date">2007-2012</div>
+                            <div class="experience-item-company slide-title-sub company-pink">invision Inc.</div>
                           </div>
                           <div class="col-md-4">
-                            <div class="experience-item-title slide-title-sub">Departamento de Operaciones</div>
+                            <div class="experience-item-title slide-title-sub">junior ux/ui  Designer</div>
                           </div>
                           <div class="col-md-4">
-                            <div class="experience-item-descr slide-descr">Asistente de operaciones turisticas hoteleras dentro de Torres del Paine. Mi principal misión era coordinar transporte y logistica del hotel. </div>
+                            <div class="experience-item-descr slide-descr">Credibly streamline mission-critical value with multifunctional functionalities. Leading team designers.</div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="experience-item">
+                        <div class="row">
+                          <div class="col-md-4">
+                            <div class="experience-item-date">2005-2007</div>
+                            <div class="experience-item-company slide-title-sub company-green">spotify</div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="experience-item-title slide-title-sub">art direction designer</div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="experience-item-descr slide-descr">Assertively exploit wireless initiatives rather than synergistic core competencies.</div>
                           </div>
                         </div>
                       </div>
@@ -418,28 +418,28 @@
                       <div class="experience-item">
                         <div class="row">
                           <div class="col-md-4">
-                            <div class="experience-item-date">Enero 2015 - Septiembre 2015</div>
-                            <div class="experience-item-company slide-title-sub company-pink">Hospital Doctor Augusto Essman Burgos</div>
+                            <div class="experience-item-date">2004-2005</div>
+                            <div class="experience-item-company slide-title-sub company-pink">invision Inc.</div>
                           </div>
                           <div class="col-md-4">
-                            <div class="experience-item-title slide-title-sub">Asistente de contabilidad</div>
+                            <div class="experience-item-title slide-title-sub">junior ux/ui  Designer</div>
                           </div>
                           <div class="col-md-4">
-                            <div class="experience-item-descr slide-descr">Ingresé al servicio público con la principal mision de trabajar en el área de adquisiciones. De manera personal, desarrolle un control de existencias ya que en ese momento no habia un sistema de control mas que las tarjetas en papel.</div>
+                            <div class="experience-item-descr slide-descr">Credibly streamline mission-critical value with multifunctional functionalities. Leading team designers.</div>
                           </div>
                         </div>
                       </div>
                       <div class="experience-item">
                         <div class="row">
                           <div class="col-md-4">
-                            <div class="experience-item-date">Septiembre 2012 - Enero 2015</div>
-                            <div class="experience-item-company slide-title-sub company-green">Fantástico Sur Limitada</div>
+                            <div class="experience-item-date">2001-2003</div>
+                            <div class="experience-item-company slide-title-sub company-green">spotify</div>
                           </div>
                           <div class="col-md-4">
-                            <div class="experience-item-title slide-title-sub">Departamento de Reservas</div>
+                            <div class="experience-item-title slide-title-sub">art direction designer</div>
                           </div>
                           <div class="col-md-4">
-                            <div class="experience-item-descr slide-descr">Principalmente era la gestion de venta online y reservas. Participé activamente como tester en el desarrollo del software que ocupan hasta el dia de hoy en la empresa en referencia.</div>
+                            <div class="experience-item-descr slide-descr">Assertively exploit wireless initiatives rather than synergistic core competencies.</div>
                           </div>
                         </div>
                       </div>
